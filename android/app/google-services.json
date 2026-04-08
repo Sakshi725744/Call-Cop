@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "685712960589",
+    "firebase_url": "https://callcop-default-rtdb.firebaseio.com",
+    "project_id": "callcop",
+    "storage_bucket": "callcop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685712960589:android:bec4c2a40c7477c1c00004",
+        "android_client_info": {
+          "package_name": "com.example.call_cop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Tu-dW1Rpi29khw9cqK6ttLYNuTCNb-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
